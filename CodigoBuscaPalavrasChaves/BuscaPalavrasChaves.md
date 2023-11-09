@@ -1,6 +1,6 @@
 # Analisador de PDF
 
-Este projeto permite que você pesquise palavras-chave em arquivos PDF dentro de uma pasta específica e mova (ou copie) os arquivos que contêm essas palavras-chave para uma nova pasta.
+Este projeto permite que você pesquise palavras-chave em arquivos PDF dentro de uma pasta específica e mova (ou copie) os arquivos que contêm essas palavras-chave para uma nova pasta e cria um json mostrando quais palavras chaves foram achadas e o numero da pagina.
 
 ## Como usar
 
