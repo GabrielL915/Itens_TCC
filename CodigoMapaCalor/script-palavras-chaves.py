@@ -2,7 +2,7 @@ import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
 
-excelFile = pd.read_excel('', sheet_name='Planilha1')
+excelFile = pd.read_excel('', sheet_name='')
 
 colunsExcel = excelFile.columns.tolist()
 
